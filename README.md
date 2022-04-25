@@ -1,6 +1,7 @@
 a demo using autokeras text classification to predict if ...
 
 1, email spam data = spam or not
+
 2, ecomm product review data = recommend to buy or not
 
 references 
