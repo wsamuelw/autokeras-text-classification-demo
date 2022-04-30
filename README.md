@@ -12,5 +12,4 @@ https://www.tensorflow.org/text/tutorials/classify_text_with_bert
 
 https://towardsdatascience.com/text-classification-made-easy-with-autokeras-c1020ff60b17
 
-
-
+https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
